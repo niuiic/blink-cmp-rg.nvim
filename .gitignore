@@ -1,1 +1,4 @@
 .nvim/
+node_modules
+integration-tests/test-environment/.repro
+integration-tests/test-environment/testdirs/
